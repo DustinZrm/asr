@@ -1,0 +1,10 @@
+numpy
+funasr
+modelscope
+python-dotenv
+soundfile
+websocket_client
+addict
+simplejson
+python-dateutil
+sortedcontainers
